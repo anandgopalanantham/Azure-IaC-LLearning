@@ -1,1 +1,1 @@
-# Azure-IaC-LLearning
+# Azure-IaC-Learning
